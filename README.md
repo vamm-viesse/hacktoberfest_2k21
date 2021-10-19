@@ -2,12 +2,12 @@
 
 
 
-# Beginner-Hacktoberfest
+## Beginner-Hacktoberfest
 Need Your first pr for hacktoberfest 2k21 ? come on in 
 
 ---
 
-# ❓ What's Hacktoberfest 2021?
+## ❓ What's Hacktoberfest 2021?
 
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2021.
 
@@ -17,7 +17,7 @@ If you’ve never contributed to open source before, this is the perfect time to
 
 ---
 
-# 👕 Why Should I Contribute?
+## 👕 Why Should I Contribute?
 
 Hacktoberfest has a simple and plain moto.
 
@@ -29,7 +29,7 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 ---
 
-# 👍 This is Awesome! How Can I Contribute?
+## 👍 This is Awesome! How Can I Contribute?
 
 It's very easy. You don't need to be an expert in coding and programming. Here are the steps you need to follow to create your -(maybe)- EXAMPLE first pull request within few minutes.
 1. **Star this repository.**
